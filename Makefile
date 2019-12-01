@@ -1,4 +1,4 @@
-GO_PROTOC_VERSION := 1.0.0
+GO_PROTOC_VERSION := 2.0.0
 
 .PHONY: container
 container:
